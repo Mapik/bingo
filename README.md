@@ -18,7 +18,7 @@
 
 # Images
 
-## Bingo card
+## Sample bingo card
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 <br/>
 
-## Caller
+## Sample caller
 
 <br/>
 
