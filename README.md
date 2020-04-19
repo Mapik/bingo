@@ -1,75 +1,36 @@
 # Bingo generator
 > Simple bino generator
 
+
+# Description
+
+- simple bingo generator
+- it generates 10 bingo cards in size of 5x5
+- bingo cards are ready to print 
+
+# How to use it
+
+- download repository 
+- install dependencies 
+- prepare square images (the more the better)
+- put images into "otp3" folder 
+- run program from command line
+
+# Images
+
+## Bingo card
+
 <br/>
 
 <img src="https://github.com/Mapik/bingo/blob/master/results/bingo_24.jpg">
 
 <br/>
 
-# Description
+## Caller
 
-- Private & hobby project aiming to help manage farms;
-- https://agrome.herokuapp.com/ is mobile friendly web application build on Ruby on Rails framework;
-- object-relational database system based on Postgresql;
-- front end build with Zurb Foundation as well as with SCSS and jQuery;
-- version control with git and Bitbucket/Github;
-- Linux based development environment with Sublime as main text editor;
-- self-development in programming, managing projects and meeting end user expectations;
-- Marketing automation with Mailchimp;
-
-# Features
-
-- registering new user
-- logging in 
-- reseting password 
-- adding fields, herds, machinery, buildings
-- recording activities for all above entities 
-- viewing recorded activities
-- following other users activities 
-
-
-# Technology stack
-
-* Ruby on Rails
-* Postgresql
-* JavaScript
-* Zurb Foundation
-
-# Screenshots
-
-#### Log in page
-<img src="https://github.com/Mapik/agrome/blob/master/vendor/assets/Screenshot%20from%202020-02-06%2007-02-36.png">
 <br/>
 
-#### Register page
-<img src="https://github.com/Mapik/agrome/blob/master/vendor/assets/Screenshot%20from%202020-02-06%2007-02-58.png">
+<img src="https://github.com/Mapik/bingo/blob/master/results/caller_75.jpg">
+
 <br/>
 
-#### Dashboard
-<img src="https://github.com/Mapik/agrome/blob/master/vendor/assets/Screenshot%20from%202020-02-06%2007-03-14.png">
-<br/>
-
-#### Users
-<img src="https://github.com/Mapik/agrome/blob/master/vendor/assets/Screenshot%20from%202020-02-06%2007-03-22.png">
-<br/>
-
-#### Field view (no fields)
-<img src="https://github.com/Mapik/agrome/blob/master/vendor/assets/Screenshot%20from%202020-02-06%2007-03-34.png">
-<br/>
-
-#### Add field form
-<img src="https://github.com/Mapik/agrome/blob/master/vendor/assets/Screenshot%20from%202020-02-06%2007-04-00.png">
-<br/>
-
-#### Record activity form
-<img src="https://github.com/Mapik/agrome/blob/master/vendor/assets/Screenshot%20from%202020-02-06%2007-04-59.png">
-<br/>
-
-#### Activity view
-<img src="https://github.com/Mapik/agrome/blob/master/vendor/assets/Screenshot%20from%202020-02-06%2007-05-22.png">
-<br/>
-
-#### Recorded activities
-<img src="https://github.com/Mapik/agrome/blob/master/vendor/assets/Screenshot%20from%202020-02-06%2007-05-34.png">
-<br/>
